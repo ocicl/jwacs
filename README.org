@@ -1,0 +1,10 @@
+* jwacs
+
+Javascript With Advanced Continuation Support
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/chumsley/jwacs.git   |
+| commit  | c25adb3  |
+| systems | jwacs |
+|---------+-------------------------------------------|
+
